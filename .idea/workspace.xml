@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d92cb1f6-cee5-45c8-b2f0-411bf4f47f14" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/worker-app-pod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/worker-app-pod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
